@@ -1,0 +1,17 @@
+ul li {
+    display: inline;
+    list-style: none;
+    font-family: 'acme' sans-serif
+}
+
+#gitHub {
+    height: 40px;
+    width: auto;
+    margin-right: 200px;
+  }
+
+  #linkedin {
+    height: 50px;
+    width: 50px;
+    margin-left: 200px;
+  }
