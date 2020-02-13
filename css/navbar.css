@@ -13,8 +13,7 @@
  .bg-light {
     background-color: rgba(180,172,172);
 } 
-
-.nav-link:hover{
+/*.nav-link:hover{
     color: yellow;
     font-weight: bold;
   }
