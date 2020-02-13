@@ -1,6 +1,22 @@
+#about {
+    margin: 100px;
+    background-color: rgb(148, 141, 141);
+    border-radius: 20px;
+    padding: 50px;
+
+}
+
+
+p {
+    font-size: 20px;
+}
+
+
+
 #img {
     transform: rotate(90deg);
     height: 200px;
     width: auto;
     border-radius: 2em;
+
 }
